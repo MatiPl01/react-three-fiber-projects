@@ -7,3 +7,6 @@ This repository contains projects created with React Three Fiber and Three.js ba
 
 ## Floating portals
 [Floating portals](./floating-portals/)
+
+## Car physics mini game
+[Floating portals](./car-mini-game/)
